@@ -3,6 +3,11 @@
 This is a fork of the [core Homebrew NSQ
 formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/nsq.rb).  
 
+:warning: This fork is **unmaintained**. I no longer use or need it.
+
+----
+
+
 There are two steps to using this fork:
 
 1. If you have already installed the default nsq formula that comes with Homebrew, make sure that
